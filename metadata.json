@@ -1,0 +1,6 @@
+{
+  "name": "Papine High School - Printing & Document Management System",
+  "description": "Production printing queue, document registration, teacher allowance tracking, student printing payments, and printer fleet management for Papine High School.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
